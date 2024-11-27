@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hello there 👋
+<p1><strong>I'm Marios Konstantinos Giannoulis.</strong></p1>
+
+# About Me
+I currently study Computer Science at the University of Athens.I'm always eager to learn,  create, collaborate on exciting projects that make a difference and i really enjoy coding.
+
+
+
+## 💻 Skills & Tools
+
+Here are some of the tools and technologies I'm familiar with:
+
+&#x2022; HTML
+
+&#x2022; C/C++
+
+## How to reach me
+<p>Reach me at <a href="mailto:mariosgiannouliw@gmail.com">mariosgiannouliw@gmail.com</a></p>
 
 <!--
 **Mariosgian/Mariosgian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
