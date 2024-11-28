@@ -2,7 +2,7 @@
 <p1><strong>I'm Marios Konstantinos Giannoulis.</strong></p1>
 
 # About Me
-I currently study at the <a href="https://www.di.uoa.gr/" target="_blank">Department of Informatics and Telecommunications</a>, in the National and Kapodistrian University of Athens.![image](https://github.com/user-attachments/assets/7b402ce0-b1eb-4813-a1b3-7fd9dd402fe8)
+I currently study at the <a href="https://www.di.uoa.gr/" target="_blank">Department of Informatics and Telecommunications</a>, in the National and Kapodistrian University of Athens.
 I'm always eager to learn,  create, collaborate on exciting projects that make a difference and i really enjoy coding.
 
 
