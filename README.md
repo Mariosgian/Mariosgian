@@ -15,7 +15,7 @@ Here are some of the tools and technologies I'm familiar with:
 
 &#x2022; C/C++
 
-## You can see some of my projects right below
+## You can see some of my projects right below , in the pinned section.
 
 ## How to reach me
 <p>Reach me at <a href="mailto:mariosgiannouliw@gmail.com">mariosgiannouliw@gmail.com</a></p>
